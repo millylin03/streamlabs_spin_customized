@@ -9,9 +9,14 @@ https://streamlabs.com/
 https://www.youtube.com/@milly-game
 
 程式碼可自行取用，但請在自己的說明欄加上以下註解文字
+
 —————
+
+
 本程式為 Streamlabs 的 Spin Wheel Widget 的自訂HTML附加程式，由Milly改寫薩爾達風格的結果展示效果
 改寫作者：https://twitter.com/OneHandedMilly
+
+
 —————
 
 
