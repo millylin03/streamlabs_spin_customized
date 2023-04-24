@@ -1,0 +1,2 @@
+# streamlabs_spin_customized
+Streamlabs 轉輪功能自訂薩爾達樣式程式碼
