@@ -19,5 +19,18 @@ https://www.youtube.com/@milly-game
 
 ---
 
+##使用說明
+
+請依以下步驟操作或參考作者影片
+
+
+1. 註冊並登入 Streamlabs 網站
+2. 進入 Dashborad，左側選單進入 All Widgets，找到 Spin Wheel
+3. 填入所需要的自訂選項
+4. 最下方啟用自訂 HTML/CSS
+5. 分別在HTML、CSS、JS的最下面將本程式提供的三個檔案內容附加在後面，**保留所有原本的程式碼不要更改**
+
+
+
 copyright (c) 2023 Milly Lin
 
