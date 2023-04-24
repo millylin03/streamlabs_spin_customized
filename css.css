@@ -92,7 +92,7 @@ text {
 		  margin:10px;
 		  width: 50px;
 		  height: 50px;
-		  background-image: url('https://cdn.discordapp.com/attachments/1036159944652763237/1098822624987074610/corner.png');
+		  background-image: url('https://millygame.s3.ap-southeast-1.amazonaws.com/spinwheel/corner.png');
 		  background-repeat: no-repeat;
 		}
 
@@ -129,6 +129,6 @@ text {
 		  bottom: -10px;
 		  left:50%;
 		  margin-left:-23px;
-		  background-image: url('https://cdn.discordapp.com/attachments/1036159944652763237/1098840708309340220/triangle.png');
+		  background-image: url('https://millygame.s3.ap-southeast-1.amazonaws.com/spinwheel/triangle.png');
 		  background-repeat: no-repeat;
 		}
