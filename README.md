@@ -8,7 +8,7 @@ https://streamlabs.com/
 效果展示和詳細使用方法請參考Milly的影片
 https://www.youtube.com/@milly-game
 
-程式碼可自行取用，但請在自己的說明欄加上以下註解文字
+程式碼可自行取用，但請在自己的**說明欄加上以下註解文字**
 
 ---
 
