@@ -6,6 +6,7 @@
 https://streamlabs.com/
 
 效果展示和詳細使用方法請參考Milly的影片
+（影片未完成待製作中）
 https://www.youtube.com/@milly-game
 
 程式碼可自行取用，但請在自己的**說明欄加上以下註解文字**
@@ -21,7 +22,7 @@ https://www.youtube.com/@milly-game
 
 ## 使用說明
 
-請依以下步驟操作或參考作者影片
+請依以下步驟操作或參考作者影片（影片未完成待製作中）
 
 
 1. 註冊並登入 Streamlabs 網站
