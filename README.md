@@ -19,7 +19,7 @@ https://www.youtube.com/@milly-game
 
 ---
 
-##使用說明
+## 使用說明
 
 請依以下步驟操作或參考作者影片
 
