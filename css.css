@@ -1,0 +1,134 @@
+
+text {
+  			font-family: "Noto Sans TC", sans-serif;
+			font-weight: 300;
+}
+
+.decorated-wrapper {
+		position: relative;
+			display: none;
+			z-index: 999;
+			width:700px;
+			margin: auto;
+  margin-top: -450px;
+			animation: fadeIn 1s ease-out;
+	}
+
+		/* 訊息框半透明圓角 */
+		.modal {
+			background-color: rgba(0, 0, 0, 0.8);
+			border-radius: 10px;
+			text-align: center;
+			box-shadow: 5px 5px 8px 5px rgba(0,0,0,0.3);
+		}
+		
+		/* 訊息框內部 */
+		
+		.modal-content #resultTitle {
+			font-family: "Noto Sans TC", sans-serif;
+			font-weight: 300;
+			padding-top:50px;
+			color:#dee0d5;
+			font-size:45px;
+		}
+
+		/* 結果文字 */
+		.modal-content #result {
+			font-family: "Noto Sans TC", sans-serif;
+			font-weight: 900;
+			padding-top:30px;
+			padding-bottom: 80px;
+			color:#dee0d5;
+			font-size:60px;
+
+		}
+
+		/* 結果文字中間橫線 */
+		#result::before {
+		  content: "";
+		  position: absolute;
+		  top: 120px;
+		  left:10%;
+		  width: 80%;
+		  height: 2px;
+		  background-color: rgba(222, 224, 213, 0.5);
+		  opacity: 0.5;
+		  z-index: 1;
+		}
+
+		/* 淡入動畫 */
+		.fadeIn {
+		  animation: fadeIn 0.5s;
+		  animation-fill-mode: forwards;
+		}
+
+		/* 淡出動畫 */
+		.fadeOut {
+		  animation: fadeOut 0.5s;
+		  animation-fill-mode: forwards;
+		}
+
+		@keyframes fadeIn {
+		  from {
+			opacity: 0;
+		  }
+		  to {
+			opacity: 1;
+		  }
+		}
+
+		@keyframes fadeOut {
+		  from {
+			opacity: 1;
+		  }
+		  to {
+			opacity: 0;
+		  }
+		}
+
+		/* 設定四個角落的裝飾圖片 */
+		.decorated-wrapper .corner {
+		  position: absolute;
+		  margin:10px;
+		  width: 50px;
+		  height: 50px;
+		  background-image: url('https://cdn.discordapp.com/attachments/1036159944652763237/1098822624987074610/corner.png');
+		  background-repeat: no-repeat;
+		}
+
+		/* 改變成四個角落的位置和角度 */
+		.decorated-wrapper .top-left {
+		  top: 0;
+		  left: 0;
+		  transform: rotate(0deg);
+		}
+
+		.decorated-wrapper .top-right {
+		  top: 0;
+		  right: 0;
+		  transform: rotate(90deg);
+		}
+
+		.decorated-wrapper .bottom-right {
+		  bottom: 0;
+		  right: 0;
+		  transform: rotate(180deg);
+		}
+
+		.decorated-wrapper .bottom-left {
+		  bottom: 0;
+		  left: 0;
+		  transform: rotate(270deg);
+		}
+
+		/* 最底下中間的倒三角形圖案  */
+		.decorated-wrapper .triangle {
+		  position: absolute;
+		  width: 46px;
+		  height: 34px;
+		  bottom: -10px;
+		  left:50%;
+		  margin-left:-23px;
+		  background-image: url('https://cdn.discordapp.com/attachments/1036159944652763237/1098840708309340220/triangle.png');
+		  background-repeat: no-repeat;
+		}
