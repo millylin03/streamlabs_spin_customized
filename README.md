@@ -12,7 +12,7 @@ https://www.youtube.com/@milly-game
 
 ---
 
-使用到轉輪抽選程式為 Streamlabs 的 Spin Wheel Widget 的自訂HTML附加程式，由Milly改寫薩爾達風格的結果顯現效果
+使用到轉輪抽選程式為 Streamlabs 的 Spin Wheel Widget，由 Milly 改寫薩爾達風格的結果顯現效果
 
 改寫作者：https://twitter.com/OneHandedMilly
 
