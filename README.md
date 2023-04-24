@@ -1,5 +1,5 @@
 # streamlabs_spin_customized
-## Streamlabs 轉輪功能自訂薩爾達樣式程式碼
+## Streamlabs 轉輪功能自訂薩爾達風格樣式程式碼
 
 本程式使用 Streamlabs 的 Spin Wheel 轉輪功能，修改加強結果展示的部份。
 原程式網址在
