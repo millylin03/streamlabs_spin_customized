@@ -1,7 +1,7 @@
 # streamlabs_spin_customized
-Streamlabs 轉輪功能自訂薩爾達樣式程式碼
+## Streamlabs 轉輪功能自訂薩爾達樣式程式碼
 
-本程式使用 Streamlabs 的 Spin Wheel 轉輪功能，修改加強結果展示的部份
+本程式使用 Streamlabs 的 Spin Wheel 轉輪功能，修改加強結果展示的部份。
 原程式網址在
 https://streamlabs.com/
 
@@ -10,16 +10,14 @@ https://www.youtube.com/@milly-game
 
 程式碼可自行取用，但請在自己的說明欄加上以下註解文字
 
-—————
+---
 
-
-本程式為 Streamlabs 的 Spin Wheel Widget 的自訂HTML附加程式，由Milly改寫薩爾達風格的結果展示效果
+使用到轉輪抽選程式為 Streamlabs 的 Spin Wheel Widget 的自訂HTML附加程式，由Milly改寫薩爾達風格的結果顯現效果
 
 改寫作者：https://twitter.com/OneHandedMilly
 
 
-—————
-
+---
 
 copyright (c) 2023 Milly Lin
 
