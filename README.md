@@ -30,7 +30,8 @@ https://www.youtube.com/@milly-game
 1. 註冊並登入 Streamlabs 網站
 2. 進入 Dashborad，左側選單進入 All Widgets，找到 Spin Wheel
 3. 填入所需要的自訂選項，推薦以下標籤配色，供參考:
-   文字 #FFFFFF、底色 #846161, #D6BD62, #609B70, #8074A3, #F19C9C, #5C97B7, #E5BA04 
+   文字 #FFFFFF、底色 #846161, #D6BD62, #609B70, #8074A3, #F19C9C, #5C97B7, #E5BA04
+   
    ![image](https://cdn.discordapp.com/attachments/1036159944652763237/1135880682279813260/image.png)
 5. 最下方啟用自訂 HTML/CSS
 6. 分別在HTML、CSS、JS的最下面將本程式提供的三個檔案內容附加在後面，**保留所有原本的程式碼不要更改**
