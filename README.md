@@ -11,13 +11,13 @@ https://www.youtube.com/@milly-game
 ![image](https://cdn.discordapp.com/attachments/1036159944652763237/1135881292198715482/image.png)
 
 
-程式碼可自行取用，但請在自己的**說明欄加上以下註解文字**
+程式碼和圖片可自行取用，但請在自己的**說明欄加上以下註解文字**
 
 ---
 
 使用到轉輪抽選程式為 Streamlabs 的 Spin Wheel Widget，由 Milly 改寫薩爾達風格的結果顯現效果
 
-改寫作者：https://twitter.com/OneHandedMilly
+改寫作者：https://www.youtube.com/@milly-game
 
 
 ---
