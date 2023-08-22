@@ -6,7 +6,7 @@
 https://streamlabs.com/
 
 效果展示和詳細使用方法請參考Milly的影片
-（影片未完成待製作中）
+[![解說影片](http://imgyoutube.com/vi/nh1MASArfiE/0.jpg)](https://www.youtube.com/watch?v=nh1MASArfiE "解說影片")
 https://www.youtube.com/@milly-game
 ![image](https://cdn.discordapp.com/attachments/1036159944652763237/1135881292198715482/image.png)
 
