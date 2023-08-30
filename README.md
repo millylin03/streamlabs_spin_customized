@@ -7,7 +7,7 @@ https://streamlabs.com/
 
 效果展示和詳細使用方法請參考Milly的影片
 
-[![點此前往解說影片](http://imgyoutube.com/vi/nh1MASArfiE/0.jpg)](https://www.youtube.com/watch?v=nh1MASArfiE "點此前往解說影片")
+[![點此前往解說影片](https://img.youtube.com/vi/nh1MASArfiE/0.jpg)](https://www.youtube.com/watch?v=nh1MASArfiE "點此前往解說影片")
 
 https://www.youtube.com/@milly-game
 ![image](https://cdn.discordapp.com/attachments/1036159944652763237/1135881292198715482/image.png)
@@ -28,7 +28,7 @@ https://www.youtube.com/@milly-game
 
 請依以下步驟操作或參考作者影片
 
-[![點此前往解說影片](http://imgyoutube.com/vi/nh1MASArfiE/0.jpg)](https://www.youtube.com/watch?v=nh1MASArfiE "點此前往解說影片")
+[![點此前往解說影片](https://img.youtube.com/vi/nh1MASArfiE/0.jpg)](https://www.youtube.com/watch?v=nh1MASArfiE "點此前往解說影片")
 
 1. 註冊並登入 Streamlabs 網站
 2. 進入 Dashborad，左側選單進入 All Widgets，找到 Spin Wheel
