@@ -9,7 +9,7 @@ https://streamlabs.com/
 
 [![點此前往解說影片](https://img.youtube.com/vi/nh1MASArfiE/0.jpg)](https://www.youtube.com/watch?v=nh1MASArfiE "點此前往解說影片")
 
-https://www.youtube.com/@milly-game
+https://www.youtube.com/@millygamestream
 ![image](https://cdn.discordapp.com/attachments/1036159944652763237/1135881292198715482/image.png)
 
 
@@ -19,7 +19,7 @@ https://www.youtube.com/@milly-game
 
 使用到轉輪抽選程式為 Streamlabs 的 Spin Wheel Widget，由 Milly 改寫薩爾達風格的結果顯現效果
 
-改寫作者：https://www.youtube.com/@milly-game
+改寫作者：https://www.youtube.com/@millygamestream
 
 
 ---
